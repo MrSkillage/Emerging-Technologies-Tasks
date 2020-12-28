@@ -24,6 +24,14 @@ Following this the command terminal will open in the repos folder path. Then typ
 
 ![Command_Terminal_Jupyter](img/Command_Terminal_Jupyter.png)
 
+This will open up the Jupyter Notebook program in your default browser. Click on the item 'Tasks.ipynb' as seen below.
+
+![Jupyter_Notebook](img/Jupyter_Notebook.png)
+
+This will open a new tab in your browser with the Tasks assignment running in Jupyter Notebook.
+
+![Tasks_Jupyter_Notebook](img/Tasks_Jupyter_Notebook.png)
+
 
 ## License & Copyright
 
