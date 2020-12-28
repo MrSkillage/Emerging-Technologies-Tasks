@@ -10,6 +10,21 @@ In order to use this git-repo you will need to have installed on your computer [
 
 Anaconda will be a large download of approx. 450Mbs in size and will contain both Python 3 and Jupyter in its installation. Once downloaded run the install wizard and upon finishing you will be able to run the program found in this git-repo.
 
+## Running the Program
+
+Clone the git-repo to your computer and you should have the following folder structure.
+
+![Folder_Image](img\Repo_folder_Image.PNG)
+
+Next open up a command prompt in this folder. The easiest way to do this is to click on the folder path and type 'cmd' and hit the enter key, as seen below
+
+![Folder_Image_cmd](img\Folder_cmd.png)
+
+Following this the command terminal will open in the repos folder path. Then type into the command terminal 'jupyter notebook' and hit the enter key.
+
+![Command_Terminal_Jupyter](img\Command_Terminal_Jupyter)
+
+
 ## License & Copyright
 
 © Conor Rabbitte, Galway-Mayo Institute Technology Software Development
