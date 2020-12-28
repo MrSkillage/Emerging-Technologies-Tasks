@@ -14,7 +14,7 @@ Anaconda will be a large download of approx. 450Mbs in size and will contain bot
 
 Clone the git-repo to your computer and you should have the following folder structure.
 
-![Folder_Image](img/Repo_folder_Image.png)
+![Folder_Image](img/Repo_folder_Image.PNG)
 
 Next open up a command prompt in this folder. The easiest way to do this is to click on the folder path and type 'cmd' and hit the enter key, as seen below
 
