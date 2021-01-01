@@ -10,6 +10,18 @@ In order to use this git-repo you will need to have installed on your computer [
 
 Anaconda will be a large download of approx. 450Mbs in size and will contain both Python 3 and Jupyter in its installation. Once downloaded run the install wizard and upon finishing you will be able to run the program found in this git-repo.
 
+## Folder Structure
+
+![Folder_Image](img/Repo_folder_Image.png)
+
+- **.ipynb_checkpoints** : Stores jupyter notebook checkpoints (auto save files) for recovery and loading.
+- **img** : Stores all images found in this project repository.
+- **.gitattributes** : Contains git ignore and attribute configurations.
+- **assessment** : Pdf file of the modules task assessments.
+- **LICENSE** : Standard MIT LICENSE.
+- **README** : Markdown file acts as README for git repository.
+- **Tasks.ipynb** : Jupyter Notebook file containing the projects work in Markdown and Python.
+
 ## Running the Program
 
 Clone the git-repo to your computer and you should have the following folder structure.
