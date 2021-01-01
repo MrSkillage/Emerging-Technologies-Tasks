@@ -12,7 +12,7 @@ Anaconda will be a large download of approx. 450Mbs in size and will contain bot
 
 ## Folder Structure
 
-![Folder_Image](img\Git_Repo_Folder_Structure.png)
+![Folder_Image](img/Git_Repo_Folder_Structure.png)
 
 - **.ipynb_checkpoints** : Stores jupyter notebook checkpoints (auto save files) for recovery and loading.
 - **img** : Stores all images found in this project repository.
