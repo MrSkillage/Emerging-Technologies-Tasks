@@ -32,6 +32,12 @@ This will open a new tab in your browser with the Tasks assignment running in Ju
 
 ![Tasks_Jupyter_Notebook](img/Tasks_Jupyter_Notebook.png)
 
+Now click on the tab 'Kernel' and in the dropdown menu select the 'Restart & Run All' option. This will restart the program and run each line sequentially.
+
+![Kernel_Restart](img/Kernel_Restart.png)
+![Restart_And_Run_All_Cells](img/Restart_And_Run_All_Cells.png)
+
+You are now ready to use the Tasks program. You can read through and even edit, if you wish, the Markdown and/or Python cells.
 
 ## License & Copyright
 
